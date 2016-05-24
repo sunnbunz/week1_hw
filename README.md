@@ -14,7 +14,7 @@ Created the account creation/sign-in flow, as well as the basic 4-tab app archit
 * [x] User can tap the area for "Having trouble signing in?"
 * [x] User can log out from the Settings screen.
 
-
+![Video Walkthrough](walkthrough_1.gif)
 
 Gif created with LiceCap
 
